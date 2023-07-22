@@ -33,7 +33,6 @@ const Login = () => {
             value = {textInputName}
             onChangeText = {(value) => {setTextInputName(value)}}
         />
-        <Text>{'\n'}</Text>
         <TextInput
             placeholder='Enter Email'
             style = {styles.textInputStyle}
