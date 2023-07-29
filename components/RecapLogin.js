@@ -73,3 +73,38 @@ const styles = StyleSheet.create({
         color: 'white'
     }
 })
+
+
+{/* const alertTextInput = () => {
+        alert(
+            'email: ' + textInputEmail + 
+            '\npassword: ' + textInputPassword
+        )
+    }
+
+    
+return (
+        <View style={styles.container}>
+        <TextInput
+            placeholder = 'Email'
+            style = {styles.input}
+            value = {textInputEmail}
+            onChangeText = {(value) => {setTextInputEmail(value)}}
+        />
+
+        <TextInput
+            placeholder = 'Password'
+            style = {styles.input}
+            value = {textInputPassword}
+            onChangeText = {(value) => {setTextInputPassword(value)}}
+        />
+        <Text>{'\n'}</Text>
+        <Button
+            title='Submit'
+            style={styles.submitButton}
+            onPress={() => {
+                {alertTextInput()}
+            }}
+        />
+        </View>
+    )*/}
