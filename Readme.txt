@@ -1,4 +1,4 @@
 Student ID: 2113110775
 Student Name: Sirapob Sanjeam
-DateToStudy: 29-July-2023
-ClassTopic: React Component PartIII, User Interface Component
+DateToStudy: 5-August-2023
+ClassTopic: React Hook part useEffect
