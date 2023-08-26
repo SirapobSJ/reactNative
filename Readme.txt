@@ -1,4 +1,4 @@
 Student ID: 2113110775
 Student Name: Sirapob Sanjeam
-DateToStudy: 19-August-2023
-ClassTopic: React Hook : useEffect, FlatList Component
+DateToStudy: 26-August-2023
+ClassTopic: using Android Emulator, Fetch call API in Component
