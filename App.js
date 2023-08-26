@@ -2,12 +2,16 @@ import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import FlatList_Example1 from './components/FlatList_Example1'
 import FlatList_HeaderFooter from './components/FlatList_HeaderFooter'
+import FlatListAPI from './components/FlatListAPI'
+import News from './components/News'
 
 const App = () => {
   return (
     <View style={styles.container}>
       {/* <FlatList_Example1/> */}
-      <FlatList_HeaderFooter/>
+      {/* <FlatList_HeaderFooter/> */}
+      {/* <FlatListAPI/> */}
+      <News/>
     </View>
   )
 }
